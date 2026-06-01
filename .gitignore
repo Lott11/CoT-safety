@@ -1,0 +1,14 @@
+*.json
+*jsonl
+*jsonbat
+*.docx
+*.png
+*.pdf
+*.sh
+*.zip
+*.HEIC
+SafetyHeadAttribution/
+.guardrails/
+.idea/
+.venv/
+reasoning-safety-behaviours/
